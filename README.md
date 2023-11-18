@@ -2,7 +2,7 @@
 
 A digital printing solution designed to streamline document printing for HCMUT students, making on-campus printing convenient 
 
-## Stimulation of the Web Application
+##  Web Application
 
 To access the HCMUT_SSPS web service locally, follow these steps:
 
